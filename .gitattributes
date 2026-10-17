@@ -1,0 +1,12 @@
+# Text file normalization
+*.py linguist-detectable
+
+*.min.js linguist-generated
+public/* linguist-vendored
+
+*.gif binary
+package-lock.json linguist-generated
+public/index.html linguist-vendored
+*.woff2 binary
+
+yarn.lock linguist-generated
