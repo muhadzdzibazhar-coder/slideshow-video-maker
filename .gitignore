@@ -1,0 +1,7 @@
+htmlcov/
+dist/
+*.egg-info/
+.coverage
+env/
+.pytest_cache/
+.venv/
